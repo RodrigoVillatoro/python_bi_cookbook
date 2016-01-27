@@ -1,3 +1,5 @@
 .ipynb_checkpoints
-/Stats19-Data1979-2004
+/data
 /.idea
+config_secret.py
+__pycache__/
